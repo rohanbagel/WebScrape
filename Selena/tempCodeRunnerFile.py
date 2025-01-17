@@ -1,0 +1,1 @@
+no_noise = noise_removal(im_bw)
